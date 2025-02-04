@@ -12,4 +12,7 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging saves the entire history of the repo while rebasing changes the base of the branch.
 
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning more about my new minor that I added.
 >>>>>>> q2
